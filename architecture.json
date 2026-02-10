@@ -1,0 +1,160 @@
+{
+  "book_id": "enlightenment-scottish-lyric-poetry-technological-anxiety",
+  "title": "The Heptagon in the Stone",
+  "tagline": "An archaeologist of sound hears a new geometry in the world's oldest songs.",
+  "target_words": 70000,
+  "actual_words": 66592,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Corruption of Pure Listening by Quantification",
+    "Ancient Landscapes as Non-Human Archives",
+    "The Uncanny as a System Notification",
+    "The Scottish Enlightenment's Unfinished Critique of Instrumental Reason"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Singing Stone",
+      "words": 2775
+    },
+    {
+      "ch": 2,
+      "title": "The Silent Symbol",
+      "words": 2775
+    },
+    {
+      "ch": 3,
+      "title": "The Professor's Algorithm",
+      "words": 2775
+    },
+    {
+      "ch": 4,
+      "title": "Callanish at Dawn",
+      "words": 2775
+    },
+    {
+      "ch": 5,
+      "title": "Data and Dream",
+      "words": 2775
+    },
+    {
+      "ch": 6,
+      "title": "The Pattern in the Peat",
+      "words": 2775
+    },
+    {
+      "ch": 7,
+      "title": "A Gaze from the Grid",
+      "words": 2775
+    },
+    {
+      "ch": 8,
+      "title": "The Broken Broch",
+      "words": 2775
+    },
+    {
+      "ch": 9,
+      "title": "Lyric in the Logs",
+      "words": 2775
+    },
+    {
+      "ch": 10,
+      "title": "McPhail's Simulation",
+      "words": 2775
+    },
+    {
+      "ch": 11,
+      "title": "The Haptic Hum",
+      "words": 2775
+    },
+    {
+      "ch": 12,
+      "title": "Prime Number Silence",
+      "words": 2775
+    },
+    {
+      "ch": 13,
+      "title": "The Second Heptagon",
+      "words": 2775
+    },
+    {
+      "ch": 14,
+      "title": "Burns Beneath the Moss",
+      "words": 2775
+    },
+    {
+      "ch": 15,
+      "title": "A Refusal to Transmit",
+      "words": 2775
+    },
+    {
+      "ch": 16,
+      "title": "The Library of Glass",
+      "words": 2775
+    },
+    {
+      "ch": 17,
+      "title": "Ambient vs. Extraction",
+      "words": 2775
+    },
+    {
+      "ch": 18,
+      "title": "The Vocorder's True Calibration",
+      "words": 2775
+    },
+    {
+      "ch": 19,
+      "title": "Storm of Data",
+      "words": 2775
+    },
+    {
+      "ch": 20,
+      "title": "Ear Against the Algorithm",
+      "words": 2775
+    },
+    {
+      "ch": 21,
+      "title": "The Geometry of Gloom",
+      "words": 2775
+    },
+    {
+      "ch": 22,
+      "title": "Unplugging the Pod",
+      "words": 2775
+    },
+    {
+      "ch": 23,
+      "title": "The Song Before Language",
+      "words": 2775
+    },
+    {
+      "ch": 24,
+      "title": "A Listening Post",
+      "words": 2775
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character discovers a 'glitch' in a natural landscape—a tree that hums a perfect sine wave, a river that flows in a non-Euclidean pattern—and must choose whether to report it or protect it.",
+      "Create a monologue from the perspective of Professor McPhail, defending his pattern-recognition module as the true heir to the Scottish Enlightenment's project of understanding nature.",
+      "Draft a 'field recording' log entry from Elara that blends poetic observation with technical sensor data, capturing her dual way of seeing/hearing the world.",
+      "Imagine a conversation between a 18th-century lyric poet (like Robert Burns) and Elara, about how to properly 'listen' to a landscape. What tools do they distrust?"
+    ],
+    "technical": [
+      "Build a simple web app that generates 'ambient soundscapes' based on geological/weather data, but includes a 'heptagon mode' that introduces an anomalous, perfect geometric frequency.",
+      "Design a speculative UI/UX for the 'Vocorder' device, showing how its interface might toggle between raw waveform data and poetic, impressionistic notation."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "John Muir",
+      "Susan Sontag",
+      "David Hume",
+      "Donna Haraway"
+    ]
+  },
+  "cover_prompt": "An archaeologist, her ear pressed against a massive, geometrically perfect heptagon of black basalt emerging from a Scottish peat bog, listens with profound concentration as faint, prismatic light emanates from its vertices, [Detailed Scene & Context: The scene is set at twilight on a desolate moor, where ancient standing stones form a faint circle in the misty background. The central heptagon is covered in intricate, non-Euclidean carvings that seem to shift when viewed peripherally. Scattered at the archaeologist's feet are anachronistic tools: a brass phonograph horn connected to crystalline wires, and slate tablets covered in spectral, glowing musical notation that hovers above the stone], [Artistic Style & Medium: in the atmospheric and luminous style of a romantic oil painting by Caspar David Friedrich, combined with the precise, eerie geometric abstraction of Hilma af Klint, rendered with the textured physicality of thick impasto and glazing], [Composition & Camera: book cover framing, a centered and symmetrical composition that emphasizes the heptagon, shot from a low-angle to monumentalize the stone and the listener, creating a sense of awe and discovery], [Lighting & Color Palette: dramatic chiaroscuro lighting where the cold, ethereal light from the stone illuminates the listener's face, contrasting with the deep umbers, mossy greens, and twilight violets of the moor, punctuated by the uncanny cadmium yellow and electric blue of the spectral notation], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
